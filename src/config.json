@@ -1,0 +1,21 @@
+{
+    "prod1": {
+            "REACT_APP_V1": "1",
+            "REACT_APP_GOOGLE_CLIENT_ID": "https://alpha5.monsterapi.ai/backend",
+            "REACT_APP_UI_DOMAIN": "https://alpha5.monsterapi.ai/",
+            "REACT_APP_STRIPE_CUSTOMER_DASHBOARD": "https://billing.stripe.com/p/login/test_3csg1W2SccDU0ScfYY",
+            "REACT_APP_FINETUNING_API_DOMAIN": "https://finetuningapi.monsterapi.ai/",
+            "REACT_APP_PRICE_ID_1": "price_1MLo3MDotL2VY3pjjk2n6dQ3",
+            "REACT_APP_PRODUCT_ID_1": "prod_NAo5wzDRDaQJt3",
+            "REACT_APP_PRICE_ID_2": "price_1MQSTcDotL2VY3pj3ZbZkjX8",
+            "REACT_APP_PRODUCT_ID_2": "prod_NAo5jCREeMtErr",
+            "REACT_APP_PRICE_ID_3": "price_1MT94YDotL2VY3pjRph1Lwoo",
+            "REACT_APP_PRODUTCT_ID_3": "prod_NDaFcwGx2VkAms"
+    },
+    "prod": {
+       "REACT_VARIABLE": "b"
+    },
+   "development": {
+        "REACT_VARIABLE": "c"
+    }
+}

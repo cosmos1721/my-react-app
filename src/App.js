@@ -1,7 +1,9 @@
 import logo from './logo.svg';
 import './App.css';
+const {selectedConfig} = require('./config.js');
 
 function App() {
+  console.log("hi2", selectedConfig)
   return (
     <div className="App">
       <header className="App-header">
